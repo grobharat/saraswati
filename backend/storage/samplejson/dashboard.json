@@ -1,0 +1,20 @@
+{
+    "status":true,
+    "subjectwiserate":[
+        {"subject":"physics","expectedrate":2.0,"currentrate":2.1},
+        {"subject":"chemistry","expectedrate":3.0,"currentrate":1.5},
+        {"subject":"mathematics","expectedrate":3.0,"currentrate":2.1}
+    ],
+    "subjectwisecompletion":[
+        {"subject":"physics","expectedtime":200,"currentrate":21},
+        {"subject":"chemistry","expectedtime":200,"currentrate":15},
+        {"subject":"mathematics","expectedtime":200,"currentrate":41}
+    ],
+    "overallscorepercentage":20,
+    "recommendedstudyhours":4,
+    "recommendation":"You are doing great, keep the spirits up",
+    "suggestions":[
+        "slide1","slide2","slide3","slide4"
+    ]
+
+}

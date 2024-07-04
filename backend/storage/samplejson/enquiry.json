@@ -1,0 +1,29 @@
+{
+    "status":true,
+    "data":[
+        {"id":1,"name":"Brijesh","class":9,"session":"23-24","contacts":[8953551535,8546038379],"emails":["brijesh5dec@gmail.com","brijk12300@gmail.com"],
+        "responses":[
+            {"id":1,"contactmode":"call","response":"busy","exam":"IIT","result":"Not Interested","status":2,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":2,"contactmode":"call","response":"picked","exam":"NEET","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":3,"contactmode":"call","response":"picked","exam":"JEE","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"}
+            ],
+        "nextfollowup":"2024-04-09 06:00PM"
+        },
+        {"id":2,"name":"Rajesh","class":10,"session":"23-24","contacts":[8953551535,8546038379],"emails":["brijesh5dec@gmail.com","brijk12300@gmail.com"],
+        "responses":[
+            {"id":1,"contactmode":"call","response":"busy","exam":"IIT","result":"Not Interested","status":2,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":2,"contactmode":"call","response":"picked","exam":"NEET","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":3,"contactmode":"call","response":"picked","exam":"JEE","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"}
+            ],
+        "nextfollowup":"2024-04-09 06:00PM"
+        },
+        {"id":3,"name":"Brijesh","class":9,"session":"23-24","contacts":[8953551535,8546038379],"emails":["brijesh5dec@gmail.com","brijk12300@gmail.com"],
+        "responses":[
+            {"id":1,"contactmode":"call","response":"busy","exam":"IIT","result":"Not Interested","status":2,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":2,"contactmode":"call","response":"picked","exam":"NEET","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"},
+            {"id":3,"contactmode":"call","response":"picked","exam":"JEE","result":"Will visit","status":1,"created_at":"2024-04-09 06:00PM","nextfollowup":"2024-04-09 06:00PM"}
+            ],
+        "nextfollowup":"2024-04-09 06:00PM"
+    }
+    ]
+}

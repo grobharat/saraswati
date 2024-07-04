@@ -1,0 +1,18 @@
+{
+    "status":true,
+    "physics":[
+        {"id":1,"topic":"Topic 1","status":0},
+        {"id":2,"topic":"Topic 2","status":1},
+        {"id":3,"topic":"Topic 3","status":2}
+    ],
+    "chemistry":[
+        {"id":1,"topic":"Topic 1","status":0},
+        {"id":2,"topic":"Topic 2","status":1},
+        {"id":3,"topic":"Topic 3","status":2}
+    ],
+    "mathematics":[
+        {"id":1,"topic":"Topic 1","status":0},
+        {"id":2,"topic":"Topic 2","status":1},
+        {"id":3,"topic":"Topic 3","status":2}
+    ]
+}

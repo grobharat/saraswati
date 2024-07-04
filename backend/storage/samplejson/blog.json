@@ -1,0 +1,38 @@
+{
+    "status":true,
+    "data":[{
+        "id":1,
+        "tittle":"title 1",
+        "content":"Airbender (2024) Hollywood Full Adventure Movie in Hindi Dubbed | Superhit New Action Chinese Movie",
+        "mediatype":"youtube",
+        "medialink":"https://www.youtube.com/embed/fbXXjepmDvw",
+        "bookmark":0,
+        "comments":[
+            {"id":1,"username":"Brijesh","comment":"Very good video","commentdate":"09-04-2024","status":0},
+            {"id":2,"username":"Brijesh","comment":"Very good video","commentdate":"09-04-2024","status":0},
+            {"id":2,"username":"Rajesh","comment":"Not Very good video","commentdate":"09-04-2024","status":1}
+        ],
+        "createddate":"09-04-2024",
+        "author":"Brijesh",
+        "category":"information",
+        "status":0
+    },
+    {
+        "id":2,
+        "tittle":"title 2",
+        "content":"This is a simple image",
+        "mediatype":"image",
+        "medialink":"https://media.istockphoto.com/id/487297284/photo/wheat-field-during-sunrise-hdr-image.jpg?b=1&s=612x612&w=0&k=20&c=ofeZ9eWjisn5U5HL3QJ6k3VXubqhPo7M_KHsIzTJgO0=",
+        "bookmark":0,
+        "comments":[
+            {"id":1,"username":"Brijesh","comment":"Very good image","commentdate":"09-04-2024","status":0},
+            {"id":2,"username":"Brijesh","comment":"Very good image","commentdate":"09-04-2024","status":0},
+            {"id":2,"username":"Rajesh","comment":"Not Very good image","commentdate":"09-04-2024","status":1}
+        ],
+        "createddate":"09-04-2024",
+        "author":"Brijesh",
+        "category":"information",
+        "status":0
+    }
+]
+}

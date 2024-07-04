@@ -1,0 +1,7 @@
+{
+    "status":true,
+    "data":[
+        {"id": 1, "title": "exam 1", "physics": [100, 75], "chem": [100, 50], "maths": [100, 40],"total":[300,165]},
+        {"id": 2, "title": "exam 2", "physics": [100, 75], "chem": [100, 50], "maths": [100, 40],"total":[300,165]}
+]
+}
