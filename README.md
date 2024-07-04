@@ -60,7 +60,7 @@ Run below command. \
 `docker-compose up -d` \
 It will get istalled. \
 Verify by hitting below url in browser \
-`localhost:9000` \
+`localhost:9000` 
 
 #### Running documentation (React Js)
 Go to folder documentation. \
@@ -69,4 +69,4 @@ Run below command. \
 `docker-compose up -d` \
 It will get istalled. \
 Verify by hitting below url in browser \
-`localhost:9090` \
+`localhost:9090` 
